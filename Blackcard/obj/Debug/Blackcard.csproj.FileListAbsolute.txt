@@ -1,0 +1,7 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Blackcard\bin\Debug\Blackcard.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\bin\Debug\Blackcard.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\bin\Debug\Blackcard.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\bin\Debug\Blackcard.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\obj\Debug\Blackcard.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\obj\Debug\Blackcard.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Blackcard\obj\Debug\Blackcard.pdb

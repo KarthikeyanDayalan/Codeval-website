@@ -1,0 +1,6 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\bin\Debug\Niceangles.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\bin\Debug\Niceangles.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\bin\Debug\Niceangles.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\obj\Debug\Niceangles.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\obj\Debug\Niceangles.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Niceangles\obj\Debug\Niceangles.pdb

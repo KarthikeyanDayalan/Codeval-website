@@ -1,0 +1,5 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\MinimumCoins\bin\Debug\MinimumCoins.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\MinimumCoins\bin\Debug\MinimumCoins.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\MinimumCoins\bin\Debug\MinimumCoins.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\MinimumCoins\obj\Debug\MinimumCoins.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\MinimumCoins\obj\Debug\MinimumCoins.pdb

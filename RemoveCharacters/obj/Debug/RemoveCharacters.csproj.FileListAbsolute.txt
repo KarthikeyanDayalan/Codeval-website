@@ -1,0 +1,6 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\bin\Debug\RemoveCharacters.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\bin\Debug\RemoveCharacters.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\bin\Debug\RemoveCharacters.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\obj\Debug\RemoveCharacters.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\obj\Debug\RemoveCharacters.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\RemoveCharacters\obj\Debug\RemoveCharacters.pdb

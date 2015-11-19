@@ -1,0 +1,12 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\bin\Debug\Bigdigits.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Bigdigits\obj\Debug\Bigdigits.pdb
