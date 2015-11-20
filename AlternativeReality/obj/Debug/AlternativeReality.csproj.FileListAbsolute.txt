@@ -1,0 +1,6 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\obj\Debug\AlternativeReality.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\bin\Debug\AlternativeReality.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\bin\Debug\AlternativeReality.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\bin\Debug\AlternativeReality.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\obj\Debug\AlternativeReality.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\AlternativeReality\obj\Debug\AlternativeReality.pdb
