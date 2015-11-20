@@ -1,0 +1,6 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\bin\Debug\TextDollar.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\bin\Debug\TextDollar.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\bin\Debug\TextDollar.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\obj\Debug\TextDollar.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\obj\Debug\TextDollar.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\TextDollar\obj\Debug\TextDollar.csprojResolveAssemblyReference.cache

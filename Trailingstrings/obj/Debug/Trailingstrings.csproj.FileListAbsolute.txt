@@ -4,3 +4,8 @@ C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Trailingstri
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Trailingstrings\obj\Debug\Trailingstrings.csprojResolveAssemblyReference.cache
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Trailingstrings\obj\Debug\Trailingstrings.exe
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\Trailingstrings\obj\Debug\Trailingstrings.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Trailingstrings\bin\Debug\Trailingstrings.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Trailingstrings\bin\Debug\Trailingstrings.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Trailingstrings\bin\Debug\Trailingstrings.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Trailingstrings\obj\Debug\Trailingstrings.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\Trailingstrings\obj\Debug\Trailingstrings.pdb

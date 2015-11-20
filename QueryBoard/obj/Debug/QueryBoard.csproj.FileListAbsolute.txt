@@ -4,3 +4,8 @@ C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\QueryBoard\b
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\QueryBoard\obj\Debug\QueryBoard.csprojResolveAssemblyReference.cache
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\QueryBoard\obj\Debug\QueryBoard.exe
 C:\Users\karthikeyan\Documents\Visual Studio 2013\Projects\CodeEval\QueryBoard\obj\Debug\QueryBoard.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\QueryBoard\bin\Debug\QueryBoard.exe.config
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\QueryBoard\bin\Debug\QueryBoard.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\QueryBoard\bin\Debug\QueryBoard.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\QueryBoard\obj\Debug\QueryBoard.exe
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\CodeEval\QueryBoard\obj\Debug\QueryBoard.pdb
